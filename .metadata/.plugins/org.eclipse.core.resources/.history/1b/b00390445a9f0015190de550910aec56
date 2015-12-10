@@ -23,10 +23,6 @@ public class Animal {
 		System.out.println(this.name);
 	}
 	
-	public void setSound(String s){
-		this.sound = s;
-	}
-	
 	public void getSound(){
 		System.out.println(this.name + " says: " + this.sound); 
 	}

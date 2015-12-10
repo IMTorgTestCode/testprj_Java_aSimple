@@ -8,7 +8,7 @@ public class Animal {
 	
 	private String name = "name";
 	private String type;
-	private String sound = "rooar";
+	private String sound = "rooor";
 	private double weight = 0;
 	private String color = "gray";
 	
@@ -23,12 +23,8 @@ public class Animal {
 		System.out.println(this.name);
 	}
 	
-	public void setSound(String s){
-		this.sound = s;
-	}
-	
 	public void getSound(){
-		System.out.println(this.name + " says: " + this.sound); 
+		System.out.println(this.name + "says: " + this.sound); 
 	}
 	
 	
