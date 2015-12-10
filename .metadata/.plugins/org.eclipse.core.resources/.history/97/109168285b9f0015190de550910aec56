@@ -23,7 +23,8 @@ public class Sample {
 		Animal	Fluffy = new Cat("Fluffy");	
 		
 		Fluffy.getSound();
-				
+		
+		
 		
 	}
 

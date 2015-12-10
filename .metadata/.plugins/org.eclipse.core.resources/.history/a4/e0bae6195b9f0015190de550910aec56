@@ -14,16 +14,17 @@ public class Sample {
 		
 		if(userInput.hasNextLine()){
 			
-			Animal Fido = new Dog(userInput.nextLine());
+			Dog Fido = new Dog(userInput.nextLine());
 			
 			Fido.getSound();
 			
 		}
 		
-		Animal	Fluffy = new Cat("Fluffy");	
 		
-		Fluffy.getSound();
-				
+		
+		
+		
+		
 		
 	}
 
