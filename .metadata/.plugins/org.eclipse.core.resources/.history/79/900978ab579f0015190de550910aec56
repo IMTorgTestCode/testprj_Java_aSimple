@@ -1,0 +1,20 @@
+package aSimple;
+
+import java.util.Scanner;
+
+public class Sample {
+	
+
+	
+public static void main(String[] args){
+		
+		System.out.println("Hello World!");
+		System.out.println("\nWhat is your dog's name?");
+		
+		Animal Fido = new Dog("Fido");
+		
+		
+		
+	}
+
+}

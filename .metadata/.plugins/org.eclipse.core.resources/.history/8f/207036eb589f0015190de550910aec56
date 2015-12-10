@@ -16,11 +16,7 @@ public class Sample {
 			
 			Animal Fido = new Dog(userInput.nextLine());
 			
-			Fido.getSound();
-			
 		}
-		
-		
 		
 		
 		

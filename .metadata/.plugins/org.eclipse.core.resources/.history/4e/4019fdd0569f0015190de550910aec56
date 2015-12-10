@@ -1,0 +1,12 @@
+package aSimple;
+
+public class Sample {
+	
+static Scanner userinput = new Scanner(System.in);	
+	
+public static void main(String[] args){
+		
+		System.out.println("Hello World!");
+	}
+
+}

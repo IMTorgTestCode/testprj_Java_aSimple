@@ -15,8 +15,7 @@ public class Sample {
 		if(userInput.hasNextLine()){
 			
 			Animal Fido = new Dog(userInput.nextLine());
-			
-			Fido.getSound();
+			System.out.println(Fido.getSound());
 			
 		}
 		
