@@ -4,6 +4,9 @@ public class Animal {
 	
 	public static final int MaxAnimals = 5;
 	
+	/**
+	 * Doxygen doc tag githubstatstag:{ "thisIs": "classVariable" }
+	 */
 	protected static int NumOfAnimals;
 	
 	private String name = "name";
@@ -12,8 +15,9 @@ public class Animal {
 	private double weight = 0;
 	private String color = "gray";
 	
-		
-	
+	/**
+	 * Doxygen doc tag githubstatstag:{ "thisIs": "classMethod" }
+	 */
 	public Animal(String name) {
 		this.name = name;
 		NumOfAnimals++;
