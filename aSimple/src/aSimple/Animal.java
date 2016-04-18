@@ -5,7 +5,7 @@ public class Animal {
 	public static final int MaxAnimals = 5;
 	
 	/**
-	 * Doxygen doc tag githubstatstag:{ "thisIs": "classVariable" }
+	 * pulvrtag:{ "thisIs": "classVariable" }
 	 */
 	protected static int NumOfAnimals;
 	
@@ -16,7 +16,7 @@ public class Animal {
 	private String color = "gray";
 	
 	/**
-	 * Doxygen doc tag githubstatstag:{ "thisIs": "classMethod" }
+	 * pulvrtag:{ "thisIs": "classMethod" }
 	 */
 	public Animal(String name) {
 		this.name = name;
