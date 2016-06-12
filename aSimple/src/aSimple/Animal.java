@@ -1,5 +1,8 @@
 package aSimple;
 
+/**
+ * pulvrtag:{ "thisIs": "aClassDeclaration" }
+ */
 public class Animal {
 	
 	public static final int MaxAnimals = 5;
